@@ -1,0 +1,23 @@
+commit d01c3c86dd13d6fdc87f4a3ddcc35d71df4ab4c1
+Author: a-thacker <athacker@southern.edu>
+Date:   Tue Apr 1 14:30:51 2025 -0400
+
+    Added and ending
+
+commit 1325fabc9528bc5688be9b48feb2f05b94f9a0fd
+Author: a-thacker <athacker@southern.edu>
+Date:   Tue Apr 1 14:29:58 2025 -0400
+
+    Added more words
+
+commit 503d6a4a9fbb6d1f0d1c30e47e6947232461883e
+Author: a-thacker <athacker@southern.edu>
+Date:   Tue Apr 1 14:28:28 2025 -0400
+
+    Added words
+
+commit b6024be5fea5eaa6297d789c6f44fc36c3d9f2ce
+Author: a-thacker <athacker@southern.edu>
+Date:   Tue Apr 1 14:18:32 2025 -0400
+
+    First Commit
